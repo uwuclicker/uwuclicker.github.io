@@ -1,0 +1,15 @@
+{
+  "name": "uwu Clicker",
+  "short_name": "uwu",
+  "display": "mininal-ui",
+  "start_url": "/",
+  "theme_color": "#111111",
+  "background_color": "#111111",
+  "icons": [
+  {
+    "src": "icon.png",
+    "sizes": "200x200",
+    "type": "image/png"
+  }
+]
+}
