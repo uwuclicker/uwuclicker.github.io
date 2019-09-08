@@ -6,7 +6,7 @@ self.addEventListener('fetch', function(e) {
                 '/',
                 '/index.html',
                 '/manifest.json',
-                '/icon-192.png'
+                '/icon.png'
             ]);
         })
     );
